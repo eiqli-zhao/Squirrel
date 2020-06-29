@@ -1,9 +1,4 @@
 # luna_pinyin.custom.yaml
-#
-# 補靪功能：將朙月拼音的詞庫修改爲朙月拼音擴充詞庫
-#
-# 作者：瑾昀 <cokunhui@gmail.com>
-#
 # 部署位置：
 # ~/.config/ibus/rime  (Linux)
 # ~/Library/Rime  (Mac OS)

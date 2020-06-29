@@ -3,9 +3,6 @@
 #@/db_name  custom_phrase.txt
 #@/db_type	tabledb
 #
-# 用於【朙月拼音】系列輸入方案
-# 【小狼毫】0.9.21 以上
-#
 # 請將該文件以UTF-8編碼保存爲
 # Rime用戶文件夾/custom_phrase.txt
 #
